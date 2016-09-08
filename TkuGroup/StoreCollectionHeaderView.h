@@ -10,5 +10,5 @@
 
 @interface StoreCollectionHeaderView : UICollectionReusableView
 @property (strong, nonatomic) IBOutlet UILabel *titleLabel;
-
+//test
 @end
